@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @biuniun
-- 👀 I’m interested in Cybersecurity and cloud computing.
-- 🌱 I’m currently working on OSCE.
-- 💞️ I’m looking to collaborate on Hybrid cloud project.
 - 📫 How to reach me: niu61@purdue.edu ...
 
 <!---
